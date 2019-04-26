@@ -3,7 +3,7 @@
 > 💽 Generate a tracklist of audio files - from right inside your terminal.
 
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](https://github.com/szekelymilan/tracklist/pulls)
-[![Latest Release](https://badgen.net/github/release/szekelymilan/e-kreta-cli)](https://github.com/szekelymilan/tracklist/releases/latest)
+[![Latest Release](https://badgen.net/github/release/szekelymilan/tracklist)](https://github.com/szekelymilan/tracklist/releases/latest)
 [![MIT License](https://badgen.net/badge/license/MIT/blue)](https://github.com/szekelymilan/tracklist/blob/master/LICENSE)
 
 ## Table of Contents
