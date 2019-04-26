@@ -1,0 +1,30 @@
+{
+  "name": "tracklist",
+  "version": "0.0.1",
+  "description": "Generate a tracklist of audio files - from right inside your terminal.",
+  "main": "cli.js",
+  "scripts": {},
+  "bin": {
+    "tracklist": "cli.js"
+  },
+  "repository": "szekelymilan/tracklist",
+  "homepage": "https://github.com/szekelymilan/tracklist#readme",
+  "author": "Milan Szekely <szekelymilan1125@gmail.com> (https://szekelymilan.eu)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "meow": "^5.0.0",
+    "music-metadata": "^3.6.1",
+    "update-notifier": "^2.5.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  },
+  "keywords": [
+    "cli",
+    "cli-app",
+    "metadata",
+    "audio-metadata",
+    "tracklist"
+  ]
+}
