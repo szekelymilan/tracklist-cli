@@ -29,13 +29,13 @@ Generate a tracklist of your audio files in a second, by running a single comman
 #### npm
 
 ```
-$ npm i -g tracklist
+$ npm i -g tracklist-cli
 ```
 
 #### yarn
 
 ```
-$ yarn global add tracklist
+$ yarn global add tracklist-cli
 ```
 
 ## Usage
