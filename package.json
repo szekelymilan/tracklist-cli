@@ -15,7 +15,7 @@
     "chalk": "^2.4.2",
     "meow": "^5.0.0",
     "music-metadata": "^3.6.1",
-    "update-notifier": "^2.5.0"
+    "update-notifier": "^6.0.2"
   },
   "devDependencies": {
     "prettier": "^1.17.0"
